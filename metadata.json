@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Gomoku Online",
+  "description": "A feature-rich Gomoku (Five-in-a-Row) game supporting Local PvP, Online PvP via P2P (PeerJS), and an AI opponent powered by Google Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
